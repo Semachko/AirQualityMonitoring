@@ -4,7 +4,7 @@ Date of creation - 12.2023
 ____
 ### AirQualityMonitoring - a desktop application for monitoring air quality at stations.
 ____
-### Technologies and frameworks used:
+## Technologies and frameworks used:
 - C#, WinForms
 - PostgreSQL
 - ADO.NET, npgsql
