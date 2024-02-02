@@ -37,3 +37,8 @@ ____
 ### *Reports have been prepared for visitors to clearly perceive information about air quality in certain places and during certain periods of time.*
 
 ____
+
+# **Details:**
+- Station data was loaded into the database as xlsx format.
+- PostgresKL DBMS was used.
+- The reports were created using PowerBI and made available online. The application opens them using a link.
